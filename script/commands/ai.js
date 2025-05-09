@@ -1,6 +1,6 @@
 module.exports.config = {
 	name: "ai",
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	version: '1.0.0',
 	description: "talk with gemini 2.0 flash exp",
 	prefix: false,

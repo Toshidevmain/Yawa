@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "gid",	
   version: "1.0.0", 
 	permission: 0,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	description: "get box id", 
 	prefix: false,
   premium: false,

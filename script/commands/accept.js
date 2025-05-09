@@ -2,7 +2,7 @@ module.exports.config = {
   name: "accept",
   version: "1.0.0",
   permission: 2,
-  credits: "ryuko",
+  credits: "Marjhun Baylon",
   prefix: true,
   premium: false,
   description: "accept friend requests using command",

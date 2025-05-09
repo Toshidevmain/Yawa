@@ -3,7 +3,7 @@ module.exports.config = {
     version: "1.0.5",
     permission: 0,
     prefix: false,
-    credits: "Deku",
+    credits: "Marjhun Baylon",
     description: "Get all uid and names in Group.",
     premium: false,
     category: "without prefix",

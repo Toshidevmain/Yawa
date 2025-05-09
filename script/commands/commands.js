@@ -2,7 +2,7 @@ module.exports.config = {
     name: "command",
     version: "1.0.0",
     permission: 3,
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     description: "manage/control all bot modules",
     prefix: true,
     premium: false,

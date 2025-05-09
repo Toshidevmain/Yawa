@@ -6,7 +6,7 @@ module.exports.config = {
   name: `faceswap`,
   version: "1.1.0",
   permission: 0,
-  credits: "churchill",
+  credits: "Marjhun Baylon",
   description: "Swap Faces of two picture",
   prefix: false,
   premium: false,

@@ -4,7 +4,7 @@ module.exports.config = {
 	permission: 3,
   prefix: false,
   premium: false,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	description: "config bot",
 	category: "operator",
 	cooldowns: 5

@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "group",
 	version: "0.0.3",
 	permission: 2,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	prefix: true,
   premium: false,
 	description: "ban or unblock a group",
