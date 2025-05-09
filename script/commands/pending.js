@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "pending",
 	version: "1.0.5",
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	prefix: false,
   premium: false,
 	permission: 2,

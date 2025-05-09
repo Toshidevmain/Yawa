@@ -1,6 +1,6 @@
 module.exports.config = {
     name: "yuji",
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     version: '1.0.0',
     description: "talk with yuji itadori from jujutsu kaisen",
     prefix: false,

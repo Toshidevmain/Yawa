@@ -5,7 +5,7 @@ module.exports.config = {
     name: "operatornoti",
     version: "1.0.0",
     permission: 3,
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     description: "",
     prefix: true,
     premium: false,

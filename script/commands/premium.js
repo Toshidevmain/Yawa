@@ -2,7 +2,7 @@ module.exports.config = {
   name: "premium",
   version: "2.0.0",
   permission: 0,
-  credits: "ryuko",
+  credits: "Marjhun Baylon",
   description: "premium commands configure",
   prefix: false,
   category: "admin",

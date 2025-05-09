@@ -3,7 +3,7 @@ module.exports.config = {
 	version: "1.0.0",
 	permission: 2,
 	prefix: true,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	description: "change the bot language",
   premium: false,
 	category: "admin",

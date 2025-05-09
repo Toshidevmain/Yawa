@@ -3,7 +3,7 @@ const fs = require('fs-extra');
 const path = require('path');
 
 module.exports.config = {
-    name: "ytmp4",
+    name: "Marjhun Baylon",
     version: "1.0.0",
     permission: 0,
     credits: "owner",

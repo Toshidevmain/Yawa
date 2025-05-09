@@ -3,7 +3,7 @@ module.exports.config = {
   name: "imgur",
   version: "1.0.0",
   permission: 0,
-  credits: "ryuko",
+  credits: "Marjhun Baylon",
   description: "upload image in imgur",
   prefix: false,
   premium: false,

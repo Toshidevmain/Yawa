@@ -6,7 +6,7 @@ module.exports.config = {
   name: "imagine",
   version: "1.0.0",
   permission: 0,
-  credits: "Jonell Magallanes",
+  credits: "Marjhun Baylon",
   description: "Generates an AI Image based on prompt",
   prefix: false,
   premium: false,

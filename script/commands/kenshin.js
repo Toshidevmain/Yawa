@@ -1,6 +1,6 @@
 module.exports.config = {
     name: "kenshin",
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     version: '1.0.0',
     description: "talk with kenshin himura",
     prefix: false,

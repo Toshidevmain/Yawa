@@ -2,7 +2,7 @@ module.exports.config = {
   name: "chat",
   version: "1.0.0",
   permission: 1,
-  credits: "Marjhun Baylon ",
+  credits: "Marjhun Baylon",
   description: "automatically kick the user from the group",
   prefix: true,
   premium: false,

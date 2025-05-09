@@ -1,6 +1,6 @@
 module.exports.config = {
     name: "ken",
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     version: '1.0.0',
     description: "talk with ken kaneki",
     prefix: false,

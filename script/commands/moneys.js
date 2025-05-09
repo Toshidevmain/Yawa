@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "moneys",
 	version: "1.0.2",
 	permission: 0,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
 	prefix: false,
   premium: false,
 	description: "check the amount of yourself or the person tagged",

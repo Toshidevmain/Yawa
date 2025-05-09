@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "banned",
 	version: "1.0.0",
 	permission: 2,
-	credits: "Marjhun Baylon ",
+	credits: "Marjhun Baylon",
   prefix: false,
   premium: false,
   description: "ban list",

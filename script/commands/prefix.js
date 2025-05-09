@@ -2,7 +2,7 @@ module.exports.config = {
   name: "prefix",
   version: "1.0.0",
   permission: 0,
-  credits: "ryuko",
+  credits: "Marjhun Baylon",
   prefix: true,
   description: "guide",
   category: "system",

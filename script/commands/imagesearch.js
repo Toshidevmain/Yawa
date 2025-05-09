@@ -4,7 +4,7 @@ module.exports.config = {
 	name: "searchimage",
 	version: "1.0.0",
 	permission: 0,
-	credits: "ryuko",
+	credits: "Marjhun Baylon",
   premium: false,
 	prefix: true,
 	description: "search an image",

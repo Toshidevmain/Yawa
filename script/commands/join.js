@@ -3,7 +3,7 @@ module.exports.config = {
     name: "join",
     version: "1.0.1",
     permission: 2,
-    credits: "ryuko",
+    credits: "Marjhun Baylon",
     prefix: true,
     description: "join the bot groups are in",
     category: "admin",

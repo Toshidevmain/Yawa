@@ -2,7 +2,7 @@ module.exports.config = {
   name: "operator",
   version: "2.0.0",
   permission: 0,
-  credits: "ryuko",
+  credits: "Marjhun Baylon",
   description: "control operator lists",
   prefix: false,
   premium: false,
